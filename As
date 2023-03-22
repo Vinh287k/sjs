@@ -1,0 +1,1 @@
+http://status.mclive.eu/BotnerdBot/${args[0]}/25565/banner.png
