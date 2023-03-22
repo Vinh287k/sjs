@@ -1,2 +1,2 @@
-http://status.mclive.eu/BotnerdBot/${args[0]}/25565/banner.png
 https://cdn.discordapp.com/attachments/1079766944607117353/1087997264984813629/IMG_20230322_141230.jpg
+
